@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Digital Decision Tree for <br />
-    Modes of Procurement</title>
+    <title>Digital Decision Tree for Modes of Procurement</title>
     <style>
         body {
             box-sizing: border-box;
@@ -541,7 +540,8 @@
 </head>
 <body>
     <div class="decision-container">
-        <h1>Decision Tree for Modes of Procurement</h1>
+        <h1>Decision Tree for <br />
+        Modes of Procurement</h1>
         
         <!-- Breadcrumb Trail -->
         <div id="breadcrumbContainer" class="breadcrumb-container" style="display: none;">
