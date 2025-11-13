@@ -540,8 +540,7 @@
 </head>
 <body>
     <div class="decision-container">
-        <h1>Decision Tree for <br />
-        Modes of Procurement</h1>
+        <h1>DIVe</h1>
         
         <!-- Breadcrumb Trail -->
         <div id="breadcrumbContainer" class="breadcrumb-container" style="display: none;">
